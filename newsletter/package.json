@@ -24,7 +24,7 @@
     "eslint": "7.20.0",
     "jest": "25.5.4",
     "jest-date-mock": "1.0.8",
-    "netlify-cli": "2.71.0",
+    "netlify-cli": "3.10.6",
     "next": "10.0.5",
     "prettier": "2.2.1",
     "prop-types": "15.7.2",
